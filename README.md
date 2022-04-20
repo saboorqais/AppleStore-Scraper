@@ -1,7 +1,7 @@
 # AppleStore-Scraper
 Scraping Reveiws from Applestore
 
-#Requirments
+# Requirments
 
 1) Selenium
 2) webdriver 
